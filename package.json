@@ -4,8 +4,8 @@
   "version": "0.0",
   "app": {
     "background": {
-      "scripts": ["background.js"]
+      "scripts": ["app/assets/js/background.js"]
     }
   },
-  "icons": { "16": "wii-balance-board-16.png", "128": "wii-balance-board-128.png" }
+  "icons": { "16": "app/assets/images/calculator-16.png", "128": "app/assets/images/calculator-128.png" }
 }
