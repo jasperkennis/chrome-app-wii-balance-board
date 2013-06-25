@@ -1,0 +1,11 @@
+{
+  "name": "Wii Balance Board",
+  "description": "App that reads from your Wii Balance Board",
+  "version": "0.0",
+  "app": {
+    "background": {
+      "scripts": ["background.js"]
+    }
+  },
+  "icons": { "16": "wii-balance-board-16.png", "128": "wii-balance-board-128.png" }
+}
